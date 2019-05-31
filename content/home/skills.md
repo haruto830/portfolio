@@ -24,7 +24,7 @@ subtitle = "スキル"
 | ---------- | -------- |
 | Java       | 1年      |
 | JavaScript | 3年      |
-| Nodejs     | 半年     |
+| Node.js     | 半年     |
 | Shell      | 半年     |
 | VBA        | 1年      |
 
