@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Maeyama Haruto
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: SIer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 社会人４年目
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Web開発
+- DevOps
+- クラウド
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 理学部 情報科学科 学士課程, 2016
+    institution: Toho University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +41,14 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/hatt_sir77
+- icon: quora
+  icon_pack: fab
+  link: https://qiita.com/haruto830
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/haruto830/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,8 +63,10 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+平成5年生まれの26歳エンジニア。社会人歴（IT業界）4年目。  
+新卒で中小SIer企業に入社。新卒から現在まで、コールセンター向けCRMシステムのプロジェクトに配属されている。  
+常駐先ではCRMシステムの運用・保守を担当。1、2年目は問い合わせ対応と業務効率化のツール開発、3年目はCRMシステムの保守。 自分で勉強していくうちに、もっと開発をしたいと思い転職を決意。
+（2019年5月30日更新）
